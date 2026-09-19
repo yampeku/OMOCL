@@ -22,7 +22,7 @@ mappings:
 	     - conceptMap: 
             path: "/data[at0001]/items[at0002]" # Dominant hand
             mapping:
-              at0003: 4263218 # Right-handed [SNOMED::LA9340-6]
-              at0004: 4227730 # Left-handed [SNOMED::LA7530-4]
-              at0005: 4045863 # Ambidextrous [SNOMED::LA22670-6]
-              at0006: 0 # Mixed-handed, no code, the only other term is Unknown handedness
+              at0003: 4263218 # Right-handed [SNOMED::46669005]
+              at0004: 4227730 # Left-handed [SNOMED::87683000]
+              at0005: 4045863 # Ambidextrous [SNOMED::23088002]
+              at0006: 0 # Mixed-handed, no code, the only other term children of Handedness finding is Unknown handedness
